@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "City Hospital",
+    "patientCount": 100,
+    "location": "Thrissur"
+  },
+  {
+    "id": 2,
+    "name": "Green Valley Hospital",
+    "patientCount": 80,
+    "location": "Karamana"
+  },
+  {
+    "id": 3,
+    "name": "Village Hospital",
+    "patientCount": 30,
+    "location": "Pattom"
+  },
+  {
+    "id": 4,
+    "name": "Red Valley Hospital",
+    "patientCount": 160,
+    "location": "Thiruvallam"
+  },
+  {
+    "id": 5,
+    "name": "PRS Hospital",
+    "patientCount": 800,
+    "location": "Nemom"
+  }
+]
